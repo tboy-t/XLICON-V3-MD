@@ -1,5 +1,5 @@
 {
-  "name": "ꪻ᥇ꪮꪗ",
+  "name": "Xlicon-MD",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
@@ -35,17 +35,17 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "ꪻ᥇ꪮꪗ™"
+      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "ꪻ᥇ꪮꪗ"
+      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ꪻ᥇ꪮꪗ"
+      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
