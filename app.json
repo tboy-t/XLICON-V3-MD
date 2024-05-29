@@ -1,10 +1,10 @@
 {
-  "name": "Xlicon-MD",
+  "name": "ꪻ᥇ꪮꪗ",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
+  "repository": "https://github.com/tboy-t/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
@@ -35,17 +35,17 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "ꪻ᥇ꪮꪗ™"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "ꪻ᥇ꪮꪗ"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ꪻ᥇ꪮꪗ"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
